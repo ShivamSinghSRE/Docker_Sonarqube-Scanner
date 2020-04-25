@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="C:\Users\Shivam Singh\Downloads\sonar-nodejs-example-master\sonar-nodejs-example-master\tests\index.test.ts">
+    <testCase name="should return &apos;1&apos; for 1" duration="3"/>
+  </file>
+</testExecutions>

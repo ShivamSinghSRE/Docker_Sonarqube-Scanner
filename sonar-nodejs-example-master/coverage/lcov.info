@@ -1,0 +1,24 @@
+TN:
+SF:C:\Users\Shivam Singh\Downloads\sonar-nodejs-example-master\sonar-nodejs-example-master\src\index.ts
+FN:1,fibonacci
+FNF:1
+FNH:1
+FNDA:1,fibonacci
+DA:1,1
+DA:2,1
+DA:3,0
+DA:6,1
+DA:7,1
+DA:9,1
+DA:10,2
+DA:11,2
+DA:12,2
+DA:13,2
+DA:16,1
+LF:11
+LH:10
+BRDA:2,0,0,0
+BRDA:2,0,1,1
+BRF:2
+BRH:1
+end_of_record
